@@ -4,6 +4,8 @@ Bu klasördeki bash scriptleri, **ITU-ASTEAM** bünyesinde geliştirilen Gazebo 
 
 > **Not:** Bu kurulum kişisel bilgisayarlar (masaüstü / dizüstü) için hazırlanmıştır. Jetson gibi gömülü cihazlarda tam verim almak için farklı ve genellikle daha karmaşık bir kurulum gerekir.
 
+> **Planlanan değişiklik:** Kurulumun Docker'a taşınması hedefleniyor; bkz. [ana README'deki notlar](../README.md#-notlar).
+
 ## 📦 Kurulan Yazılımlar
 
 | Kategori | Yazılımlar |
